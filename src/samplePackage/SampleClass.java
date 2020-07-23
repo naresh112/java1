@@ -7,6 +7,7 @@ public class SampleClass {
 		System.out.println("hello git >>please cooperate with me");
 
 		System.out.println("hello git >>please cooperate with me");
+		System.out.println("hello git");
 
 	}
 
